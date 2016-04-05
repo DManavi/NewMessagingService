@@ -1,2 +1,2 @@
 # NewMessagingService
-BSc-Project
+My BSc project
